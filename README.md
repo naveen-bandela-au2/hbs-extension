@@ -25,6 +25,8 @@ or directly click extension icon which is left side(by default) in your editor
 - HTML (.html)
 - JavaScript (.js)
 
+##IN future to are trying to bring more languages
+
 ## Snippets command
 
 Below is a list of all available handlebar snippets and the command of each one. The **⇥** means the `TAB` key.
@@ -45,3 +47,4 @@ Below is a list of all available handlebar snippets and the command of each one.
 
 Thank you for using this extension.
 If you like it then please give me a Rating and If you have little bit of time then please give me a star in Github , Here is repo Link [Ruhan Khandakar](https://github.com/ruhan-khandakar-au3/)
+
